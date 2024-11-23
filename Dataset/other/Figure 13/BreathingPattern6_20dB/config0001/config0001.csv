@@ -1,0 +1,10 @@
+Var1,Value
+mm,1
+bpm,15
+msgFreq,10
+motor_offset,100000
+attn_left,20
+attn_middle,20
+attn_right,20
+txDuration,60
+Pattern,BreathingPattern6
